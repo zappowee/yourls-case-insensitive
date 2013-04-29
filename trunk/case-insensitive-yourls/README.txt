@@ -1,5 +1,6 @@
-At the moment, this plugin requires a modification to the standard YOURLS file includes/functions.php.
-Hopefully, a filter will be added to the core code of YOURLS that will eliminate the need for this file modification in the future.
+This plugin requires a YOURLS build from April 2013 or newer.
+
+If you have an older version of YOURLS, a modification to includes/functions.php is needed.
 
 Edit includes/functions.php and find (around line 385):
 
