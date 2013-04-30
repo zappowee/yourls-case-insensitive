@@ -1,4 +1,4 @@
-This plugin requires a YOURLS build from April 2013 or newer.
+This plugin requires YOURLS version 1.7 or newer.
 
 If you have an older version of YOURLS, a modification to includes/functions.php is needed.
 
